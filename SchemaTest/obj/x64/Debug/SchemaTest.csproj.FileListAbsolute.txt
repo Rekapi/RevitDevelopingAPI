@@ -1,0 +1,6 @@
+F:\01-RevitAPiDeveloping\SchemaTest\bin\x64\Debug\SchemaTest.Addin
+F:\01-RevitAPiDeveloping\SchemaTest\bin\x64\Debug\SchemaTest.dll
+F:\01-RevitAPiDeveloping\SchemaTest\bin\x64\Debug\SchemaTest.pdb
+F:\01-RevitAPiDeveloping\SchemaTest\obj\x64\Debug\SchemaTest.dll
+F:\01-RevitAPiDeveloping\SchemaTest\obj\x64\Debug\SchemaTest.pdb
+F:\01-RevitAPiDeveloping\SchemaTest\obj\x64\Debug\SchemaTest.csprojResolveAssemblyReference.cache

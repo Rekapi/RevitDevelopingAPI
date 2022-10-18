@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>F:\01-RevitAPiDeveloping\SchemaTest\bin\x64\Debug\SchemaTest.dll</Assembly>
+    <AddInId>6B20453C-BF64-47E6-B182-6EE7229DFEDA</AddInId>
+    <FullClassName>SchemaTest.Command</FullClassName>
+    <Text>SchemaTest</Text>
+    <Description>Schema</Description>
+    <VendorId>MR</VendorId>
+    <VendorDescription>Mahmoud Rekapi</VendorDescription>
+    <VisibilityMode>NoVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
