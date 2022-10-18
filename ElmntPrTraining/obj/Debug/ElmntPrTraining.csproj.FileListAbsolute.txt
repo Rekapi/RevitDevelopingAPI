@@ -1,0 +1,5 @@
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\bin\Debug\MyCommands.Addin
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\bin\Debug\ElmntPrTraining.dll
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\bin\Debug\ElmntPrTraining.pdb
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\obj\Debug\ElmntPrTraining.dll
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\obj\Debug\ElmntPrTraining.pdb

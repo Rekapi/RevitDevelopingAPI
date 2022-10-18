@@ -1,0 +1,12 @@
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\MyCommands.Addin
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\ElmntPrTraining.dll
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\ElmntPrTraining.pdb
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\obj\x64\Debug\ElmntPrTraining.dll
+H:\RevitDynamo\RevitAPiDeveloping\ElmntPrTraining\obj\x64\Debug\ElmntPrTraining.pdb
+F:\01-RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\ElmntPrTraining.Addin
+F:\01-RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\ElmntPrTraining.dll
+F:\01-RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\ElmntPrTraining.pdb
+F:\01-RevitAPiDeveloping\ElmntPrTraining\obj\x64\Debug\ElmntPrTraining.csproj.ResolveComReference.cache
+F:\01-RevitAPiDeveloping\ElmntPrTraining\obj\x64\Debug\ElmntPrTraining.dll
+F:\01-RevitAPiDeveloping\ElmntPrTraining\obj\x64\Debug\ElmntPrTraining.pdb
+F:\01-RevitAPiDeveloping\ElmntPrTraining\obj\x64\Debug\ElmntPrTraining.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>F:\01-RevitAPiDeveloping\ElmntPrTraining\bin\x64\Debug\ElmntPrTraining.dll</Assembly>
+    <AddInId>A14D8C14-76A8-4AAB-AEE1-EF48DB36F05B</AddInId>
+    <FullClassName>ElmntPrTraining.WallsArea</FullClassName>
+    <Text>Wall Area</Text>
+    <Description>Wall Area Calculator</Description>
+    <VendorId>MR</VendorId>
+    <VendorDescription>Mahmoud Rekapi</VendorDescription>
+    <VisibilityMode>NoVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>
