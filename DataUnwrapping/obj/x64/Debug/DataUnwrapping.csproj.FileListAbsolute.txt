@@ -1,0 +1,11 @@
+F:\01-RevitAPiDeveloping\DataUnwrapping\bin\x64\Debug\DataUnwrapping.addin
+F:\01-RevitAPiDeveloping\DataUnwrapping\bin\x64\Debug\DataUnwrapping.dll
+F:\01-RevitAPiDeveloping\DataUnwrapping\bin\x64\Debug\DataUnwrapping.pdb
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.csproj.ResolveComReference.cache
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.g.resources
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.DWColFrm.resources
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.PrGrssPar.resources
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.Properties.Resources.resources
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.csproj.GenerateResource.Cache
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.dll
+F:\01-RevitAPiDeveloping\DataUnwrapping\obj\x64\Debug\DataUnwrapping.pdb

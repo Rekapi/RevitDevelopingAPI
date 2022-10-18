@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Uwrapping Model Data</Name>
+    <Assembly>F:\01-RevitAPiDeveloping\DataUnwrapping\bin\x64\Debug\DataUnwrapping.dll</Assembly>
+    <AddInId>BC4BE465-A6EF-43B6-B715-4FEC1456423B</AddInId>
+    <FullClassName>DataUnwrapping.MainCommand</FullClassName>
+    <Text>Structural Elements</Text>
+    <Description>DataCracker</Description>
+    <VendorId>MR</VendorId>
+    <VendorDescription>Mahmoud Rekapi</VendorDescription>
+  </AddIn>
+</RevitAddIns>
